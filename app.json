@@ -1,5 +1,5 @@
 {
-	"name": "Deploy",
+	"name": "kawinda(wenu)",
 	"description": "Wa Bot.",
 	"keywords": [
 		"whatsapp",
@@ -46,7 +46,7 @@
         "CHATBOT": {
             "description": "AI chatbot",
             "required": true,
-            "value":"off"
+            "value":"on"
         },
         "BOT_NAME": {
             "description": "Name of AI chatbot",
